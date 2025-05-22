@@ -45,10 +45,7 @@ You can also:
    Run the script:
    ```
 
-bash
-Copy
-Edit
-python debug.py
+
 You’ll see output based on the objects and relationships you create.
 
 
