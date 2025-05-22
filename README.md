@@ -51,7 +51,8 @@ Edit
 python debug.py
 You’ll see output based on the objects and relationships you create.
 
-Notes
+
+
 Names and prices are validated to ensure data integrity.
 
 Helper methods are used to keep logic clean and reusable.
